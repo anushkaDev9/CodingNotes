@@ -4,5 +4,5 @@ sets whether an element is treated as a block or inline box and the layout used 
 1 ) Grid-  <br/>
           * sets all of the explicit and implicit grid properties in a single declaration. <br/>
           * using grid-templates-rows & grid-templates-columns sets the no of rows and columns  <br/>
-          * specify how content should auto-repeat in the other axis using the implicit grid properties: grid-auto-rows, grid-auto-columns, and grid-auto-flow. <br/>
+          * specify how content should auto-repeat in the other axis using the implicit grid properties: grid-auto-rows, grid-auto-columns, and grid-auto-flow. <br/> 
 
