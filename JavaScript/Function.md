@@ -1,7 +1,7 @@
 # Function 
 **Defination** - block of code designed to perform a particular task.
-<pre> function name(){<br/>
+<pre> function name(){
   alert("welcome")<br/>
-  }<br/>
+  }
 name() - calls the function
 </pre>
