@@ -13,6 +13,4 @@ name() - calls the function
 }</pre>
 ## Important topics 🛑
 * The return statement stops the execution of a function and returns a value. 
-<pre>function myFunction(name) {
-  return "Hello " + name;
-}</pre>
+
