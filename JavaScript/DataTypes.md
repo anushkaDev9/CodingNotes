@@ -1,6 +1,6 @@
 
 **DATATYPE**-Classifying data to tell computer how the prohram intends to use the data.<br/>
-### types of datatype
+### types of datatype.
 * String is used to store text. In JavaScript, strings are surrounded by quotes: **var name="anushka"**
 * Number represents integer and floating numbers (decimals and exponentials **var name=2**
 * Boolean represents one of two values: true or false. **var name=true**
@@ -10,5 +10,6 @@
     firstName: 'ram',
     lastName: null,
     class: 10
-};**
+};** <br/>
 **typeof** -function used to identify the datatype.
+  
