@@ -1,4 +1,4 @@
-# Function 
+# Function :computer:
 **Defination** - block of code designed to perform a particular task.
 <pre> function name(){
   alert("welcome")
