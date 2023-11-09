@@ -11,4 +11,8 @@ name() - calls the function
 <pre>function functionName(parameter1, parameter2, parameter3) {
   // code to be executed
 }</pre>
-dd
+## Important topics 🛑
+* The return statement stops the execution of a function and returns a value. 
+<pre>function myFunction(name) {
+  return "Hello " + name;
+}</pre>
