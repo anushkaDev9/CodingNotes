@@ -11,6 +11,15 @@ toString() converts an array to a string of (comma separated) array values.
 ### Recognize an Array
 Array.isArray()- true is its array.<br/>
 instanceof - returns true
+### Add or del elements
+Colons can be used to align columns.
+
+| Properties    | Are           | 
+| ------------- |:-------------:|
+| pop()         | removes the last element in the array |  
+| push()        | adds element in the last      |   
+| shift() | removes the first element in the array    |
+| unshift() | adds element in the first  |
 ## Important points :red_circle:
 <pre>
   typeof operator in JavaScript returns "object" for arrays.
