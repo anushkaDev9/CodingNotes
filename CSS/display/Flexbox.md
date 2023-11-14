@@ -1,6 +1,24 @@
 # Flexbox 
 It's a type of display property that helps to arrange them in a proper line 
 <pre>Example:<br/>
-![image](https://github.com/ar7937/CodingNotes/assets/83566191/0b3c59c8-0ef7-4c01-a9fa-94d4588ef6b2)
 
 </pre>
+## Different properties in flexbox 
+**1)Flex-direction** - defines which type of direction the div wants to stack the items. 
+<pre>Differnt types
+  column
+  column-reverse
+  row
+  row-reverse
+</pre>
+**2)Flex-wrap**-helps when you run out of space on the horizontal lines.
+<pre>
+  Differnt types
+  wrap value specifies that the flex items will wrap if necessary
+  nowrap value specifies that the flex items will not wrap (this is default)
+  wrap-reverse value specifies that the flexible items will wrap if necessary, in reverse order
+</pre>
+**3)Flex-row**-property is a shorthand property for setting both the flex-direction and flex-wrap properties.
+
+
+  
