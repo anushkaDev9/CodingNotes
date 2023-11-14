@@ -1,6 +1,6 @@
 # Loops
 ## While Loop 
-while loop loops through a block of code as long as a specified condition is true.
+loops through a block of code as long as a specified condition is true.
 <pre>
   while (condition) {
   // code block to be executed
