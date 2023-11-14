@@ -12,8 +12,6 @@ toString() converts an array to a string of (comma separated) array values.
 Array.isArray()- true is its array.<br/>
 instanceof - returns true
 ### Add or del elements
-Colons can be used to align columns.
-
 | Properties    | Discription         | 
 | ------------- |:-------------:|
 | pop()         | removes the last element in the array |  
