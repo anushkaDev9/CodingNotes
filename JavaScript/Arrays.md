@@ -14,7 +14,7 @@ instanceof - returns true
 ### Add or del elements
 Colons can be used to align columns.
 
-| Properties    | Are           | 
+| Properties    | Discription         | 
 | ------------- |:-------------:|
 | pop()         | removes the last element in the array |  
 | push()        | adds element in the last      |   
