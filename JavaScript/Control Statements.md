@@ -31,5 +31,8 @@ perform different actions for different decisions.<br/>
  2) The value of the expression is compared with the values of each case.
  3) If there is a match, the associated block of code is executed.
  4) If there is no match, the default code block is executed.
- 5) break keyword, it breaks out of the switch block.This will stop the execution inside the switch block
+ 5) break keyword, it breaks out of the switch block.This will stop the execution inside the switch block.
+ Switching Details
+If multiple cases matches a case value, the first case is selected.
+If no default label is found, the program continues to the statement(s) after the switch
 </pre>
