@@ -23,4 +23,5 @@ instanceof - returns true
   typeof operator in JavaScript returns "object" for arrays.
   length property of an array returns the length of an array.
   javaScript does not support arrays with named indexes.
+  array.includes()-find if an element is included.
 </pre>
