@@ -25,7 +25,7 @@ perform different actions for different decisions.<br/>
     // code block
 }
 </pre>
-## Important Points
+## Important Points :red_circle:
 <pre>
  1) The switch expression is evaluated once.
  2) The value of the expression is compared with the values of each case.
