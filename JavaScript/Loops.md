@@ -23,5 +23,31 @@ while (condition);
 | Entry Control Loop| Exit Control Loop.   |    
 ## For loop
 + for - loops through a block of code a number of times
+  <pre>
+  FOR LOOP
+  for (set the intial point; condition;increase or decrease) {
+  // code block to be executed
+}
+</pre>
 + for/in - loops through the properties of an object
-+ for/of - loops through the values of an iterable object 
+  <pre>
+    for (key in object) {
+  // code block to be executed
+}
+Each iteration returns a key (x)
+The key is used to access the value of the key
+  </pre>
++ for/of - loops through the values of an iterable object
+  <pre>
+    for (variable of iterable) {
+  // code block to be executed
+}
+  </pre>
+
++ forEach() method calls a function (a callback function) once for each array element.
+  <pre>
+    numbers.forEach(myFunction);
+function myFunction(value, index, array) {
+  txt += value;
+}
+  </pre>
