@@ -33,6 +33,6 @@ perform different actions for different decisions.<br/>
  4) If there is no match, the default code block is executed.
  5) break keyword, it breaks out of the switch block.This will stop the execution inside the switch block.
  Switching Details
-If multiple cases matches a case value, the first case is selected.
-If no default label is found, the program continues to the statement(s) after the switch
+6) If multiple cases matches a case value, the first case is selected.
+7) If no default label is found, the program continues to the statement(s) after the switch
 </pre>
