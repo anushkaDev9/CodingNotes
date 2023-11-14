@@ -19,6 +19,8 @@ It's a type of display property that helps to arrange them in a proper line
   wrap-reverse value specifies that the flexible items will wrap if necessary, in reverse order
 </pre>
 **3)Flex-row**-property is a shorthand property for setting both the flex-direction and flex-wrap properties.
-
+<pre>
+  flex-flow: row wrap;
+</pre>
 
   
