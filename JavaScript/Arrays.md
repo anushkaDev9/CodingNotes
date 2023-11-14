@@ -9,7 +9,7 @@ You access an array element by referring to the index number:
 ### Converting an Array to a String
 toString() converts an array to a string of (comma separated) array values.
 ### Recognize an Array
-Array.isArray()- true is its array.
+Array.isArray()- true is its array.<br/>
 instanceof - returns true
 ## Important points :red_circle:
 <pre>
