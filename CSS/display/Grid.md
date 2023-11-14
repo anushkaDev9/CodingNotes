@@ -3,7 +3,7 @@ CSS Grid Layout Module offers a grid-based layout system, with rows and columns
 ## Different Properties of Grid 
 **1) grid-template-columns** -defines the number of columns in your grid layout, and it can define the width of each column.
 <pre>
-  grid-template-columns: auto auto auto auto; automatically setsthe width
+  grid-template-columns: auto auto auto auto; automatically sets the width
   -more than 4 items in a 4 columns grid, the grid will automatically add a new row to put the items in.
   grid-template-columns: 80px 200px auto 40px; 4 rows with preference width.
 </pre>
