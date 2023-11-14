@@ -27,8 +27,9 @@ perform different actions for different decisions.<br/>
 </pre>
 ## Important Points
 <pre>
- - The switch expression is evaluated once.
--The value of the expression is compared with the values of each case.
-If there is a match, the associated block of code is executed.
-If there is no match, the default code block is executed.
+ 1) The switch expression is evaluated once.
+ 2) The value of the expression is compared with the values of each case.
+ 3) If there is a match, the associated block of code is executed.
+ 4) If there is no match, the default code block is executed.
+ 5) break keyword, it breaks out of the switch block.This will stop the execution inside the switch block
 </pre>
