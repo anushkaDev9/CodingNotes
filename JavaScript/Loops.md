@@ -21,3 +21,7 @@ while (condition);
 | Loop body is executed after the given condition is evaluated.    |Loop body is executed, and then the given condition is checked. | 
 | Variables are initialized before the execution of the loop.    | Variables may initialize before or within the loop.  |  
 | Entry Control Loop| Exit Control Loop.   |    
+## For loop
++ for - loops through a block of code a number of times
++ for/in - loops through the properties of an object
++ for/of - loops through the values of an iterable object 
