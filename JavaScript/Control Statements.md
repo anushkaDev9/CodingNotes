@@ -27,7 +27,7 @@ perform different actions for different decisions.<br/>
 </pre>
 ## Important Points
 <pre>
- -The switch expression is evaluated once.
+ - The switch expression is evaluated once.
 -The value of the expression is compared with the values of each case.
 If there is a match, the associated block of code is executed.
 If there is no match, the default code block is executed.
