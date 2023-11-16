@@ -27,7 +27,7 @@ while (condition);
   FOR LOOP
   for (set the intial point; condition;increase or decrease) {
   // code block to be executed
-}
+}.
 </pre>
 + for/in - loops through the properties of an object
   <pre>
@@ -42,6 +42,7 @@ The key is used to access the value of the key
     for (variable of iterable) {
   // code block to be executed
 }
+.
   </pre>
 
 + forEach() method calls a function (a callback function) once for each array element.
@@ -50,4 +51,5 @@ The key is used to access the value of the key
 function myFunction(value, index, array) {
   txt += value;
 }
+.
   </pre>
