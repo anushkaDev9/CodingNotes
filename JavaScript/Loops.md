@@ -27,13 +27,11 @@ while (condition);
   FOR LOOP
   for (set the intial point; condition;increase or decrease) {
   // code block to be executed
-}.
 </pre>
 + for/in - loops through the properties of an object
   <pre>
     for (key in object) {
-  // code block to be executed
-}
+  // code block to be execute
 Each iteration returns a key (x)
 The key is used to access the value of the key
   </pre>
@@ -41,8 +39,7 @@ The key is used to access the value of the key
   <pre>
     for (variable of iterable) {
   // code block to be executed
-}
-.
+
   </pre>
 
 + forEach() method calls a function (a callback function) once for each array element.
@@ -50,6 +47,4 @@ The key is used to access the value of the key
     numbers.forEach(myFunction);
 function myFunction(value, index, array) {
   txt += value;
-}
-.
   </pre>
