@@ -5,20 +5,20 @@
   therefore, it can be used inside any valid JavaScript code.<br/>
 <pre>
   example:-
-  var greeting = <h1>Hello React!</h1>
+  var greeting = <p>Hello React!</p>
   var canGreet = true; 
 if(canGreet) { 
-   greeting = <h1>Hello React!</h1> 
+   greeting = <p>Hello React!</p> 
 }
   function Greeting() { 
-   return <h1>Hello React!</h1> 
+   return <p>Hello React!<p> 
    
 } 
 greeting = Greeting()
   function Greet(message) { 
    ReactDOM.render(message, document.getElementById('react-app') 
 } 
-Greet(<h1>Hello React!</h1>)
+Greet(<p>Hello React!</p>)
 </pre>
 ## Attributes in JSX
 + htmlFor instead of for <br/>
