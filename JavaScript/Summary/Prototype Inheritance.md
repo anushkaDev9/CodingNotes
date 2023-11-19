@@ -1,4 +1,4 @@
-# Summary on Prototype Inheritance 
+# Summary on Prototype Inheritance :brain:
 + In JavaScript, all objects have a hidden [[Prototype]] property that’s either another object or null.
 + We can use obj.__proto__ to access it (a historical getter/setter, there are other ways, to be covered soon).
 + The object referenced by [[Prototype]] is called a “prototype”.
