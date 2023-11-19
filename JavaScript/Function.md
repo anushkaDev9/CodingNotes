@@ -29,6 +29,22 @@ func(); // Error, func is not defined (not visible outside of the function)
 **There are two special things about the name func, that are the reasons for it:**<br/>
  1) It allows the function to reference itself internally.<br/>
 2) It is not visible outside of the function.<br/>
+## CallBack Function 
+Function passed as parameters.
+<pre>
+  function ask(question, yes, no) {
+  if (confirm(question)) yes()
+  else no();
+}
+function showOk() {
+  alert( "You agreed." );
+}
+function showCancel() {
+  alert( "You canceled the execution." );
+}
+// usage: functions showOk, showCancel are passed as arguments to ask
+ask("Do you agree?", showOk, showCancel);
+</pre>
 ## Important topics 🛑
 * The return statement stops the execution of a function and returns a value. <br/>
 * a function’s name is accessible as the “name” property.<br/>
