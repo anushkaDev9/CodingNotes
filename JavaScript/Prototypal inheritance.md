@@ -38,7 +38,6 @@ admin.fullName = "Alice Cooper"; // (**)
 alert(admin.fullName); // Alice Cooper, state of admin modified
 alert(user.fullName); // John Smith, state of user protected
 </pre>
-**This is bold text**
 **No matter where the method is found: in an object or its prototype. In a method call, this is always the object before the dot.
 <pre>
 Object.keys only returns own keys
