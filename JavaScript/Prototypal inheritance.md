@@ -24,7 +24,7 @@ rabbit.__proto__ = animal; // sets rabbit.[[Prototype]] = animal
   get fullName() {
     return `${this.name} ${this.surname}`;
   }
-};
+}
 let admin = {
   __proto__: user,
   isAdmin: true
