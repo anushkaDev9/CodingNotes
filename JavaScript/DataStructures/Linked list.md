@@ -10,7 +10,7 @@
 ### 3 main operation
 + add- to add elements in start end or at given text.
 + remove- to remove elements at given index.
-+ search- to find element given it value.
++ search- to find element given it value.<br/>
 **Application**
 Stack and queues are application
 example - image viewer
