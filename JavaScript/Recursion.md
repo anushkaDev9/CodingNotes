@@ -7,10 +7,10 @@
 }
 </pre>
 **Information about the process of execution of a running function is stored in its execution context.*<br/>
-**Internal data structure that contains details about the execution of a function: where the control flow is now, the current variables, the value of this (we don’t use it here) and few other internal details.*
+**Internal data structure that contains details about the execution of a function: where the control flow is now, the current variables, the value of this (we don’t use it here) and few other internal details.*<br/>
 ## Recursive structures
 A recursive (recursively-defined) data structure is a structure that replicates itself in parts.
-Example 
+Example <br/>
 **question :- The factorial of a natural number is a number multiplied by "number minus one", then by "number minus two", and so on till 1. The factorial of n is denoted as n!**<br/>
 1! = 1 <br/>
 2! = 2 * 1 = 2<br/>
@@ -25,4 +25,13 @@ soltuion
     return sum
 }
 console.log(rec(5))
+</pre>
+**problem:The sequence of Fibonacci numbers has the formula Fn = Fn-1 + Fn-2. In other words, the next number is a sum of the two preceding ones.<br/>**
+<pre>
+  let fib=(n)=>{
+    let sum=0
+   n<=1? sum=n:sum=fib(n-1)+fib(n-2)
+   return sum
+}
+console.log(fib(3))
 </pre>
