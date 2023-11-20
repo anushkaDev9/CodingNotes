@@ -7,7 +7,7 @@
 1) can easily insert or remove with alloctaion of the entire structure.<br/>
 2) Random access of element is not feasible and accesible .<br/>
 3) Linear time complexity. <br/>
-**3 main operation**<br/>
+### 3 main operation
 + add- to add elements in start end or at given text.
 + remove- to remove elements at given index.
 + search- to find element given it value.
