@@ -78,7 +78,7 @@ explanation<br/>
 Rabbit extends Animal creates two [[Prototype]] references:<br/>
 Rabbit function prototypally inherits from Animal function.<br/>
 Rabbit.prototype prototypally inherits from Animal.prototype.<br/>
-## D
+
 ## Important Points
 + Static methods aren’t available for individual objects.<br/>
 + Static  methods cannot be accessed through instantiated objects but could be accessed through the class name
