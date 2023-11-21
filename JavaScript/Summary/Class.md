@@ -6,5 +6,6 @@
 3)When overriding another method:<br/>
     + We can use super.method() in a Child method to call Parent method.<br/>
 4)Internals:<br/>
-  + Methods remember their class/object in the internal [[HomeObject]] property. That’s how super resolves parent methods.
+  + Methods remember their class/object in the internal [[HomeObject]] property. That’s how super 
+   resolves parent methods.
   + So it’s not safe to copy a method with super from one object to another.
