@@ -1,6 +1,6 @@
 # Summary On class Inheritance 
 1) To extend a class: class Child extends Parent:<br/>
- + That means Child.prototype.__proto__ will be Parent.prototype, so methods are inherited.<br/>
+    + That means Child.prototype.__proto__ will be Parent.prototype, so methods are inherited.<br/>
 2) When overriding a constructor:<br/>
  + We must call parent constructor as super() in Child constructor before using this.<br/>
 3)When overriding another method:<br/>
