@@ -1,4 +1,4 @@
-# Contrutor operator "new" 
+# Contructor operator "new" 
 + allows us to create one object<br/>
 + to implement reusable object creation code.<br/>
 Example
