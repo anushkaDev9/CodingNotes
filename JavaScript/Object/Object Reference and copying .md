@@ -82,7 +82,7 @@ user.me = user;
 let clone = structuredClone(user);
 alert(clone.me === clone); // true
 </pre>
-**Note-Function properties aren’t supported.*
+**Note-Function properties aren’t supported.*<br/>
 **Important Points**
 1)A variable assigned to an object stores not the object itself, but its “address in memory” – in other words “a reference” to it.<br/>
 2)When an object variable is copied, the reference is copied, but the object itself is not duplicated.
