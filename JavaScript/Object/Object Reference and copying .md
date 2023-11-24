@@ -85,7 +85,7 @@ alert(clone.me === clone); // true
 **Note-Function properties aren’t supported.*<br/>
 **Important Points**<br/>
 1)A variable assigned to an object stores not the object itself, but its “address in memory” – in other words “a reference” to it.<br/>
-2)When an object variable is copied, the reference is copied, but the object itself is not duplicated.
+2)When an object variable is copied, the reference is copied, but the object itself is not duplicated.<br/>
 3)Const objects can be modified<br/>
-4)structuredClone method can clone most data types, such as objects, arrays, primitive values.
-5) It also supports circular references, when an object property references the object itself
+4)structuredClone method can clone most data types, such as objects, arrays, primitive values.<br/>
+5) It also supports circular references, when an object property references the object itself.<br/>
