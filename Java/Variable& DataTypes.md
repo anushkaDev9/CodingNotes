@@ -40,7 +40,7 @@ String myText = "Hello";
     double myDouble = myInt; // Automatic casting: int to double
 </pre>
 + **Narrowing Casting**-placing the type in parentheses in front of the value.
-+ <pre>
+<pre>
   double myDouble = 9.78d;
     int myInt = (int) myDouble; // Manual casting: double to in
 </pre>
