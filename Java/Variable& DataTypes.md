@@ -27,4 +27,20 @@ String myText = "Hello";
 | are predefined (already defined)  | created by the programmer and is not defined by Java (except for String  |
 |primitive types cannot call methods to perform certain operations   |can be used to call methods to perform certain operations |
 |has always a value |types can be null|
-|a lowercase letter|starts with an uppercase letter.|
+|a lowercase letter|starts with an uppercase letter.|<br/>
+
+# Type Caasting 
++ smaller type to a larger type size<br/>
+**byte -> short -> char -> int -> long -> float -> double<br/>**
++ larger type to a smaller size type<br/>
+**double -> float -> long -> int -> char -> short -> byte<br/>**
++ **Widening Casting** - passing a smaller size type to a larger size type<br/>
+<pre>
+  int myInt = 9;
+    double myDouble = myInt; // Automatic casting: int to double
+</pre>
++ **Narrowing Casting**-placing the type in parentheses in front of the value.
++ <pre>
+  double myDouble = 9.78d;
+    int myInt = (int) myDouble; // Manual casting: double to in
+</pre>
