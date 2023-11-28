@@ -36,3 +36,51 @@ int time = 20;
 String result = (time < 18) ? "Good day." : "Good evening.";
 System.out.println(result);
 </pre>
+# Switch 
+syntax 
+<pre>
+  switch(expression) {
+  case x:
+    // code block
+    break;
+  case y:
+    // code block
+    break;
+  default:
+    // code block
+}
+</pre>
+example 
+<pre>
+  int day = 4;
+switch (day) {
+  case 1:
+    System.out.println("Monday");
+    break;
+  case 2:
+    System.out.println("Tuesday");
+    break;
+  case 3:
+    System.out.println("Wednesday");
+    break;
+  case 4:
+    System.out.println("Thursday");
+    break;
+  case 5:
+    System.out.println("Friday");
+    break;
+  case 6:
+    System.out.println("Saturday");
+    break;
+  case 7:
+    System.out.println("Sunday");
+    break;
+}
+// Outputs "Thursday" (day 4)
+</pre>
+## break Keyword
++ break keyword, it breaks out of the switch block.<br/>
++ This will stop the execution of more code and case testing inside the block.<br/>
+## Default keyword
++ default keyword specifies some code to run
+
