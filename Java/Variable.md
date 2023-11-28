@@ -1,4 +1,4 @@
-# Varaibles 
+# Variables 
 + contains for storing data.<br/>
 **types of variables**<br/>
   + String - stores text.<br/>
