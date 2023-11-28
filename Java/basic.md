@@ -1,8 +1,11 @@
 # Main method()
 + anythin inside the main method will be executed.<br/>
-public static void main(string[] args){
-
+<pre>
+  public static void main(string[] args){
+System.out.println("Hello World!");
 }
+</pre>
+
 ## System.out.println()
 **System** - is a build in Java Class that contains useful memebers such as out.<br/>
 **Out** - short for output <br/>
