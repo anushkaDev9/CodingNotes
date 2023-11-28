@@ -16,5 +16,10 @@ System.out.println("Hello World!");
 | ------------- | ------------- |
 | adds new line for each method  | it does not a new line  |<br/>
 
-
+### Comments 
+they are not visible in the output.<br/>
+<pre>
+  // single line comment .
+  /* */-muilt line comment.
+</pre>
 **Note- Class name and filename should be the same* 
