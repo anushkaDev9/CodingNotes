@@ -14,5 +14,5 @@ System.out.println("Hello World!");
 **Difference between println and print**
 | println()     |  print |
 | ------------- | ------------- |
-| adds new line for each method  | it does not a new line  |
+| adds new line for each method  | it does not a new line  |<br/>
 **Note- Class name and filename should be the same* 
