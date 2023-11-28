@@ -35,3 +35,33 @@ do {
 }
 while (i < 5);
 </pre>
+# For loops
++ Statement 1 is executed (one time) before the execution of the code block.<br/>
++ Statement 2 defines the condition for executing the code block.<br/>
++ Statement 3 is executed (every time) after the code block has been executed.<br/>
+syntax
+<pre>
+  for (statement 1; statement 2; statement 3) {
+  // code block to be executed
+}
+</pre>
+Example 
+<pre>
+  for (int i = 0; i < 5; i++) {
+  System.out.println(i);
+}
+</pre>
+**For each**
+syntax 
+<pre>
+  for (type variableName : arrayName) {
+  // code block to be executed
+}
+</pre>
+Example 
+<pre>
+  String[] cars = {"Volvo", "BMW", "Ford", "Mazda"};
+for (String i : cars) {
+  System.out.println(i);
+}
+</pre>
