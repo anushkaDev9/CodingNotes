@@ -1,4 +1,4 @@
-# Contructors 
+# Constructors 
 +  special method that is used to initialize objects.<br/>
 + used to set initial values for object attributes<br/>
 <pre>
