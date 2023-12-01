@@ -14,7 +14,7 @@ rest API is resource based, so it is an API that is centered around resources an
             3) DELETE- delete resource <br/>
 - req.rawHeaders- are key pair value pairs that come from where the request is originated .<br/>
 - HTTP Response Status code -https://developer.mozilla.org/en-US/docs/Web/HTTP/Status<br/>
-### REST APIs
+## REST APIs
 These are the most popular and flexible APIs found on the web today. The client sends requests to the server as data. <br/>
 The server uses this client input to start internal functions and returns output data back to the client.<br/>
 **Formatting API REQUESTS.**
