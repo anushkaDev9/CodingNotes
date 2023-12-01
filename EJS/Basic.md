@@ -8,7 +8,7 @@
 **Basic start - <% %>**<br/>
 - **<%= Variable %>** -  JavaScript output<br/>
 - **<% console.log(”hello”) %>** - only js code JavaScript Execute (interpreted inside JavaScript file )<br/>
-- <%- <h1>HTML</h1> %> -Render Html<br/>
+- <%- '<h1>HTML</h1>' %> -Render Html<br/>
 - <%% %%>- escape EJS (Ejs tags will be displayed)<br/>
 - <%#  this is comment %>- comment<br/>
 - <% - include(”filename”) %> - insert another EJS<br/>
