@@ -20,7 +20,7 @@ The server uses this client input to start internal functions and returns output
 ## Formatting API REQUESTS.**
 **Private API**- don’t document for other to use. Severs only your  own front end and not somebody else. <br/>
 **Public API**- document for other to use. Anyone can use to interact.<br/>
-## API endpoints** <
+## API endpoints** 
 **basic structure** - Base URL/Endpoint Endpoint can be different for different purpose.<br/>
 ## Query Parameters**<br/>
 start with ?,follwoed by key and value pair.<br/>
