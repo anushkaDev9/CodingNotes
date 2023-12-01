@@ -24,7 +24,7 @@ The server uses this client input to start internal functions and returns output
 **basic structure** - Base URL/Endpoint Endpoint can be different for different purpose.<br/>
 ## Query Parameters**<br/>
 start with ?,follwoed by key and value pair.<br/>
-base Url/Endpoint/?query=value<br/>
+**base Url/Endpoint/?query=value* <br/>
 &- to add more parameters<br/>
 base Url/Endpoint/?query=value&&query2=value<br/>
 Path parameters<br/>
