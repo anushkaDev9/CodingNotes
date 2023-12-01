@@ -1,7 +1,7 @@
 # Inheritance
 + it is possible to inherit attributes and methods from one class to another.<br/>
-   + subclass (child) - the class that inherits from another class.<br/>
-   + superclass (parent) - the class being inherited from.<br/>
+   + **subclass (child)** - the class that inherits from another class.<br/>
+   + **superclass (parent)** - the class being inherited from.<br/>
 + inherit from a class, use the extends keyword
   <pre>
     class Vehicle {
