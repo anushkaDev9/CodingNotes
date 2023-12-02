@@ -24,6 +24,17 @@ public class Main {
   }
 }
 </pre>
+## Current Date and Time
+import the java.time.LocalDateTime class, and use its now() method:
+<pre>
+  import java.time.LocalDateTime; // import the LocalDateTime class
+public class Main {
+  public static void main(String[] args) {
+    LocalDateTime myObj = LocalDateTime.now();
+    System.out.println(myObj);
+  }
+}
+</pre>
 # Formatting Date and Time
 + DateTimeFormatter class with the ofPattern() method in the same package to format or parse date-time objects<br/>
  <pre>
