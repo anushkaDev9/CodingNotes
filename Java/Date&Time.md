@@ -40,3 +40,4 @@ public class Main {
   }
 }
  </pre>
+ ![image](https://github.com/ar7937/CodingNotes/assets/83566191/eae3e903-5b52-4006-8e25-34525d55d754)
