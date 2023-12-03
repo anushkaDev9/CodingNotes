@@ -19,6 +19,8 @@ o import a whole package, end the sentence with an asterisk sign (*). The follow
 import java.util.*;
 User-defined Packages<br/>
 create your own package, you need to understand that Java uses a file system directory to store them<br/>
+![image](https://github.com/ar7937/CodingNotes/assets/83566191/96e21740-3a8e-423a-8a02-b48662787e07)
+
 <pre>
   package mypack;
 class MyPackageClass {
