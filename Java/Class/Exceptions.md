@@ -43,7 +43,43 @@ finally statement lets you execute code, after try...catch, regardless of the re
 # throw keyword
 throw statement allows you to create a custom error.
 
-The throw statement is used together with an exception type. There are many exception types available in Java: ArithmeticException, FileNotFoundException, ArrayIndexOutOfBoundsException, SecurityException, etc:<br/>
+The throw statement is used together with an exception type. There are many exception types available in Java: 
++ **ArithmeticException-**
+   + ArithmeticException(): It is used to define an arithmetic exception with zero parameters passed.<br/>
+   + ArithmeticException(String s): It is used to define an arithmetic exception with one parameter passed.<br/>
+<pre>
+  public class HandleArithmeticException  
+{  
+void divide(int a, int b)   
+{  
+int res;  
+try  
+{  
+// performing divison and storing th result  
+res = a / b;  
+System.out.println("Division process has been done successfully.");  
+System.out.println("Result came after division is: " + res);  
+}  
+// handling the exception in the catch block  
+catch(java.lang.ArithmeticException ex)  
+{  
+System.out.println("Should avoid dividing by 0 " + ex);  
+}  
+}  
+// main method  
+public static void main(String argvs[])  
+{  
+// creating an object of the class ArithmeticException  
+ArithmeticException obj = new ArithmeticException();  
+obj.divide(1, 0);  
+}  
+}  
+</pre>
++ **FileNotFoundException-**
+      + is another exception class available in the java.io package.<br/>
+      + The exception occurs when we try to access that file which is not available in the system.<br/>
+  + It is a checked exception because it occurs at run time, not compile-time
+ArrayIndexOutOfBoundsException, SecurityException, etc:<br/>
 <pre>
   public class Main {
   static void checkAge(int age) {
