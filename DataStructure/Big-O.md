@@ -10,3 +10,4 @@ It is a way of expressing the complexity relates to the number of items that an 
 |O(n^2)|Quadratic|
 <br/>
 
+![image](https://github.com/ar7937/CodingNotes/assets/83566191/f1ecb202-10f9-431e-8ce2-593d6bfe1b85)
