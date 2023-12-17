@@ -24,6 +24,11 @@ y = "John"
 print(type(x))
 print(type(y))
 </pre>
+# Global Variables
++  that are created outside of a function (as in all of the examples above) are known as global variables.<br/>
++ To create a global variable inside a function, you can use the global keyword.<br/>
+# Data Types 
+
 ## Important points 
 + String variables can be declared either by using single or double quotes:<br/>
 + Variable names are case-sensitive.
