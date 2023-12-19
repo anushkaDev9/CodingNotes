@@ -10,7 +10,7 @@ theory and developnent of computer systems able to perform tasks normally reuiri
 + netflix- peronal moovie reccomdation(watchinh history).<br/>
 + spam filtering in gmail<br/>
 # Types of AI
-**Artifical Narrow Intelligence**-<br/>
+**Artifical Narrow Intelligence**-
 + week AI<br/>
 + involves applying AI only to specfic tasks.<br/>
 **Example*- 1) Alexa -it operators withing unlimited pre-edfines range of functions.<br/>
