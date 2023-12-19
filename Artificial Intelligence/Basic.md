@@ -21,7 +21,7 @@ theory and developnent of computer systems able to perform tasks normally reuiri
 **Artifical General Intellignce**-<br/>
 + Strong AI <br/>
 + involues machine that process the abiltiy to perform any intellecual task thta a human being can.<br/>
-**Example*- alpha go zero -partial example 
+**Example*- alpha go zero -partial example .<br/>
 **Aritifical Super Intelligence**.<br/>
 + term reffering to the time when the capabilty of computer will surpass humans.<br/>
 + hyptheical situtaion.<br/> 
