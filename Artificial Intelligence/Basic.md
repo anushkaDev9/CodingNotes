@@ -13,7 +13,7 @@ theory and development of computer systems able to perform tasks normally requir
 **Artifical Narrow Intelligence**-
 + week AI<br/>
 + involves applying AI only to specfic tasks.<br/>
-**Example*- 1) Alexa -it operators withing unlimited pre-edfines range of functions.<br/>
+**Example*- 1) Alexa -it operators withing limited pre-edfines range of functions.<br/>
 2) self -driving cars<br/>
 3) alphaGo <br/>
 4) google search engine<br/>
