@@ -1,5 +1,5 @@
 # What is Aritifical Intelligence 
-theory and development of computer systems able to perform tasks normally reuiring human intelligence ,such as visual perception ,speech recognition,decision making and trasnsitional between languagaes.<br/>
+theory and development of computer systems able to perform tasks normally requiring human intelligence ,such as visual perception ,speech recognition,decision making and trasnsitional between languagaes.<br/>
 **AI Application**
 + google search engine-google attempts to guess what you might be trying to find by taking your brower history.<br/>
 + healtcare sector.<br/>
