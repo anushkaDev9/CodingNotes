@@ -30,4 +30,4 @@ theory and developnent of computer systems able to perform tasks normally reuiri
   2) R-statical programming lanagauge.<br/>
   3)Java <br/>
   4) Lisp - oldest and most suited language.<br/>
-  
+  5) SWI Prolog
