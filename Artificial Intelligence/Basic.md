@@ -11,7 +11,7 @@ theory and development of computer systems able to perform tasks normally requir
 + spam filtering in gmail<br/>
 # Types of AI
 **Artifical Narrow Intelligence**-
-+ week AI<br/>
++ weak AI<br/>
 + involves applying AI only to specfic tasks.<br/>
 **Example*- 1) Alexa -it operators withing limited pre-edfines range of functions.<br/>
 2) self -driving cars<br/>
