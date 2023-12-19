@@ -5,7 +5,7 @@ theory and development of computer systems able to perform tasks normally requir
 + healtcare sector.<br/>
 + google's ai eye doctor<br/>
 + facebook- face recognition<br/>
-+ twitter's Ai - hate speech or terriorts  in tweets<br/>
++ twitter's Ai - hate speech or terriorts attack  in tweets<br/>
 + google assistant <br/>
 + netflix- peronal moovie reccomdation(watchinh history).<br/>
 + spam filtering in gmail<br/>
