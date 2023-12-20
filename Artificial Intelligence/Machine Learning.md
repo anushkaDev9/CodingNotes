@@ -16,7 +16,7 @@ The difference between AI and machine learning is that machine learning is used 
 ## Machine learning Process 
 + Involved bulding a predictive model that can be used to find a solution ofr a problem statement.<br/>
 ## Steps
-**1)Define Objective**-<br/>
+1)Define Objective-<br/>
 - example - what are we trying to predict? what are the target fetaures what is the input data ? what kind of problem are we facing ? binary classification ,clustering<br/>
 **2)Data Gathering**-<br/>
   - example- kind of data? is it avaiable and hwo can i get 
@@ -29,5 +29,5 @@ The difference between AI and machine learning is that machine learning is used 
 trainigndata  and testing data<br/>
 **6)Model evalution and optimization**-<br/>
 accuracy is calculated or any further imorvement in the model.<br/>
-**7)Predictions**-
+**7)Predictions**-<br/>
   final outcome is predicted.
