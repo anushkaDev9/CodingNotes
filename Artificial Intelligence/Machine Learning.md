@@ -1,7 +1,7 @@
 # Machine Learning 🤖
 a subset of aritifical intelligence which provied machines the ability to learn automatically and improve from experience without being explicity programmed.<b/>
 The difference between AI and machine learning is that machine learning is used in AI, AI a processin which you make a machine mimic the behavior of humans.<br/>
-**Need of Machine learning**.
+**Need of Machine learning**.<br/>
 1)Increase in data generation.<br/>
 2)Improve decsiosn making<br/>
 3)Uncover patterns and trends in data.<br/>
