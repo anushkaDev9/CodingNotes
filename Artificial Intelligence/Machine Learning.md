@@ -17,11 +17,11 @@ The difference between AI and machine learning is that machine learning is used 
 + Involved bulding a predictive model that can be used to find a solution ofr a problem statement.<br/>
 ## Steps
 **1)Define Objective**-<br/>
-       example - what are we trying to predict? what are the target fetaures what is the input data ? what kind of problem are we facing ? binary classification ,clustering<br/>
+- example - what are we trying to predict? what are the target fetaures what is the input data ? what kind of problem are we facing ? binary classification ,clustering<br/>
 **2)Data Gathering**-<br/>
-        example- kind of data? is it avaiable and hwo can i get 
+  - example- kind of data? is it avaiable and hwo can i get 
 **3)Define Prepartion**-<br/>
-data cleaning -getting rid of inconsistencies in data such as missing values or redundant varibles.<br/>
+- data cleaning -getting rid of inconsistencies in data such as missing values or redundant varibles.<br/>
 **4)Exploratory Data Analysis**-<br/>
  -understanding the patterns and trends in the data.<br/>
   useful insights are drawn and correlations between the varables are understood.<br/>
