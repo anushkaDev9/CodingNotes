@@ -9,7 +9,7 @@ The difference between AI and machine learning is that machine learning is used 
 ## Key Topic 
 **Algorithm** - a set of rules and statistical techniques used to learn patterns from data.<br/>
 **Model**- trained by using machine learning algorithm.<br/>
-**predictor Variable**-variae used to predict data.<br/>
+**predictor Variable**-variable used to predict data.<br/>
 **Response Variable**- output variable predicted by using predictor varibale.<br/>
 **Traning Dat**a-model buit <br/>
 **Testing data**-evaluted Data<br/>
