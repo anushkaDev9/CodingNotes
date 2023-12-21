@@ -11,10 +11,10 @@ The difference between AI and machine learning is that machine learning is used 
 **Model**- trained by using machine learning algorithm.<br/>
 **predictor Variable**-variable used to predict data.<br/>
 **Response Variable**- output variable predicted by using predictor varibale.<br/>
-**Traning Dat**a-model buit <br/>
-**Testing data**-evaluted Data<br/>
+**Traning Data**-data used for  building model <br/>
+**Testing data**-data used for evalution <br/>
 ## Machine learning Process 
-+ Involved bulding a predictive model that can be used to find a solution ofr a problem statement.<br/>
++ Involved bulding a predictive model that can be used to find a solution ofor a problem statement.<br/>
 ## Steps
 1)Define Objective-<br/>
 example - what are we trying to predict? what are the target fetaures what is the input data ? what kind of problem are we facing ? binary classification ,clustering<br/>
