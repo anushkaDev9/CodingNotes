@@ -4,5 +4,6 @@
 variable who's value needs to be predicted.<br/>
 **Independent Variables**<br/>
 variable used to predict the response variable.<br/>
-![image](https://github.com/ar7937/CodingNotes/assets/83566191/0dd1b288-e426-4e8d-b6e2-6c1792813e17)
+![image](https://github.com/ar7937/CodingNotes/assets/83566191/53b23225-47d0-49dd-8ff1-3597724d3e36)
+
 
